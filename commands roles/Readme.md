@@ -20,3 +20,4 @@ A simple Discord bot manager for creating commands and managing roles.
    ```bash
    git clone https://github.com/Hacker-tech-lang/discord-bot-manager.git
    cd discord-bot-manager
+   node index.js
